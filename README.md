@@ -6,4 +6,5 @@ CTF Player | Cybersecurity
 Welcome to my humble page.  
 بلاش تعمل دوشة علشان مصدع
 
-🔗 https://vdtafury.github.io
+🔗 Website: https://vdtafury.github.io  
+🔗 LinkedIn: https://www.linkedin.com/in/vdtafury/
