@@ -15,3 +15,5 @@ Welcome to my humble page.
 - 🐦 X (Twitter): https://x.com/VDTAFURY
 - 📘 Facebook: https://www.facebook.com/VDTAFURY
 - 📸 Instagram: https://www.instagram.com/vdtafury/
+- 🛡️ cybertalents: https://cybertalents.com/members/VDTAFURY/profile
+
