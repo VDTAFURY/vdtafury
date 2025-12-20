@@ -1,10 +1,17 @@
 # Mohamed Sayed Kamel | vdtafury
 
-AI & Data Engineer  
+**AI & Data Engineer**  
 CTF Player | Cybersecurity
 
 Welcome to my humble page.  
 بلاش تعمل دوشة علشان مصدع
 
-🔗 Website: https://vdtafury.github.io  
-🔗 LinkedIn: https://www.linkedin.com/in/vdtafury/
+---
+
+## 🔗 Links
+
+- 🌐 Website: https://vdtafury.github.io
+- 💼 LinkedIn: https://www.linkedin.com/in/vdtafury
+- 🐦 X (Twitter): https://x.com/VDTAFURY
+- 📘 Facebook: https://www.facebook.com/VDTAFURY
+- 📸 Instagram: https://www.instagram.com/vdtafury/
